@@ -1,0 +1,12 @@
+.loginColumns {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 180px 20px 20px;
+}
+.pageClass{
+	display: inline-block;
+	width: 30%;
+}
+.formRegion input::placeholder{
+	opacity: .3;
+}
